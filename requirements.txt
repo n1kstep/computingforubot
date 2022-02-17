@@ -1,0 +1,8 @@
+python-dotenv
+asyncpg
+aiogram
+wolframalpha
+uuid
+configparser
+dataclasses
+psycopg2
